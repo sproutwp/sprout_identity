@@ -1,0 +1,17 @@
+{
+    "name" : "sproutwp/sprout_identity",
+    "description" : "A module that helps determine the unique, collective identity of objects within an array.",
+    "version" : "1.0.0-dev",
+    "keywords" : [
+        "objects",
+        "collections",
+        "identity",
+        "array identity",
+        "array serialization"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SproutIdentity\\": ""
+        }
+    }
+}

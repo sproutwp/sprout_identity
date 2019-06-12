@@ -4,9 +4,9 @@
  * @subpackage SproutIdentity/Wrappers
  * @since 1.0.0
  */
-namespace SproutIdentity\Wrappers;
+namespace Sprout\SproutIdentity\Wrappers;
 
-use SproutIdentity\ArrayIdentity;
+use Sprout\SproutIdentity\ArrayIdentity;
 
 final class IdentityWrappers
 {

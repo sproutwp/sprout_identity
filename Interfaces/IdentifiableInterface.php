@@ -4,7 +4,7 @@
  * @subpackage SproutIdentity/Wrappers
  * @since 1.0.0
  */
-namespace SproutIdentity\Interfaces;
+namespace Sprout\SproutIdentity\Interfaces;
 
 /**
  * Interfaces that contains a single method in regards to an object's unique & persistent identity.

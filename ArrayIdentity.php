@@ -4,7 +4,7 @@
  * @subpackage Sprout/SproutIdentity
  * @since 1.0.0
  */
-namespace SproutIdentity;
+namespace Sprout\SproutIdentity;
 
 final class ArrayIdentity
 {
